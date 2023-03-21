@@ -2,7 +2,7 @@
 Swift Package Repository for binary distribution of [openziti/ziti-sdk-swift](https://github.com/openziti/ziti-sdk-swift/)'s binary CZiti.xcframework
 
 ### Add Package Dependency
-Follow [Apple's instructions](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app), and enter https://github.com/openziti/ziti-sdk-swif-distt.git for the repository URL
+Follow [Apple's instructions](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app), and enter https://github.com/openziti/ziti-sdk-swift-dist.git for the repository URL
 
 ### Add Additional Dependencies
 
