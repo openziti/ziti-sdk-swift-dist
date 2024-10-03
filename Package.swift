@@ -3,7 +3,7 @@
 import PackageDescription
 
 let version = "2.0.0-alpha6"
-let checksum = "efafbf38d58d21eb2b8271b4eeedd38397a901580ca3681a88a96e4e8f50ced5"
+let checksum = "146e9efed4769fb04f0f75bd35622f0406446189d4048fe83023c387037f819e"
 
 let package = Package(
     name: "CZiti",
