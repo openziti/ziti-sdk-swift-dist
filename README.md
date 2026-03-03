@@ -6,7 +6,7 @@ Follow [Apple's instructions](https://developer.apple.com/documentation/xcode/ad
 
 ### Add Additional Dependencies
 
-From your XCode TARGETS General tab, under **Frameworks, Libraries, and Embedded Content**, add `libresolv.9.tbd` 
+From your XCode TARGETS General tab, under **Frameworks, Libraries, and Embedded Content**, add `libresolv.9.tbd` and `libz.1.tbd`.
 
 ### Configure App Signings & Capabilities
 In XCode TARGETS **Signiings & Capabilities**:
